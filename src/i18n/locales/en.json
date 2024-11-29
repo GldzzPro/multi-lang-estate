@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "Home",
+    "discover": "Discover",
+    "listings": "Listings",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Find Your Dream Property",
+    "subtitle": "Discover the perfect place to call home with our extensive collection of properties",
+    "searchPlaceholder": "Enter location or property type..."
+  },
+  "about": {
+    "title": "About RealEstate",
+    "subtitle": "We're committed to helping you find the perfect property that matches your lifestyle and needs.",
+    "features": {
+      "trusted": {
+        "title": "Trusted Platform",
+        "description": "Over 10 years of experience in connecting people with their dream properties"
+      },
+      "listings": {
+        "title": "Extensive Listings",
+        "description": "Access to thousands of verified properties across multiple locations"
+      },
+      "support": {
+        "title": "Expert Support",
+        "description": "24/7 support from our team of real estate professionals"
+      }
+    }
+  },
+  "common": {
+    "search": "Search",
+    "send": "Send",
+    "contact": "Contact Us",
+    "readMore": "Read More"
+  }
+}

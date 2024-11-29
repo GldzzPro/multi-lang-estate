@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "discover": "Découvrir",
+    "listings": "Annonces",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Trouvez Votre Propriété de Rêve",
+    "subtitle": "Découvrez l'endroit parfait pour vivre grâce à notre vaste collection de propriétés",
+    "searchPlaceholder": "Entrez un lieu ou un type de propriété..."
+  },
+  "about": {
+    "title": "À Propos de RealEstate",
+    "subtitle": "Nous nous engageons à vous aider à trouver la propriété parfaite qui correspond à votre style de vie et à vos besoins.",
+    "features": {
+      "trusted": {
+        "title": "Plateforme de Confiance",
+        "description": "Plus de 10 ans d'expérience dans la mise en relation des personnes avec leurs propriétés de rêve"
+      },
+      "listings": {
+        "title": "Annonces Étendues",
+        "description": "Accès à des milliers de propriétés vérifiées dans différents endroits"
+      },
+      "support": {
+        "title": "Support Expert",
+        "description": "Support 24/7 de notre équipe de professionnels de l'immobilier"
+      }
+    }
+  },
+  "common": {
+    "search": "Rechercher",
+    "send": "Envoyer",
+    "contact": "Contactez-nous",
+    "readMore": "En Savoir Plus"
+  }
+}
